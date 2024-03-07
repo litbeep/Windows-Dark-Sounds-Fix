@@ -5,7 +5,7 @@ What you may not know is that Microsoft intended for the light and dark themes t
 
 >"We introduced light and dark sound options so that people who may have low visibility or no vision can still experience light and dark themes audibly. Themed sounds improve productivity by matching your working style through your theme. Dark Sounds help you stay in focus while Light Sounds ensure you’re always engaged" - [Microsoft spokesperson.](https://www.bleepingcomputer.com/news/microsoft/windows-11-dark-mode-has-quieter-more-soothing-sounds-listen-now/)
  
-Somewhere along the way this functionality broke (or maybe it was never set up properly to begin with?). This theme pack will restore the proper sounds by installing a new **Windows (Dark Sounds)** theme on to your system.
+Somewhere along the way this functionality broke (did it ever work at all?). This theme pack will restore the proper sounds by applying a new **Windows (Dark Sounds)** theme on to your system.
 
 [Comparison Video](https://youtu.be/1qAvI0dy5oY)
 
