@@ -2,7 +2,7 @@
 
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_THEMEA
-DisplayName=Windows (dark - fixed)
+DisplayName=Windows (Dark Sounds)
 ThemeId={CB7CA7A4-80CB-4883-A045-89E2C8119FCC}
 
 ; Computer - SHIDI_SERVER
@@ -61,7 +61,7 @@ MTSM=RJSPBS
 
 [Sounds]
 ; IDS_SCHEME_DEFAULT
-SchemeName=Windows Dark
+SchemeName=Dark Sounds
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SystemRoot%\Media\dm\Windows Background.wav
