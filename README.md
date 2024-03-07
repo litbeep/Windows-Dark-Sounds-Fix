@@ -15,11 +15,11 @@ Windows 11, naturally. Any version should work, but this has only been tested on
 
 # Installation
 
-1. Download the [latest release](https://github.com/litbeep/Windows-Dark-Sounds-Fix/releases/download/release/theme.zip) from this repository.
+1. Download the [latest release](https://github.com/litbeep/Windows-Dark-Sounds-Fix/releases) from this repository.
 2. Extract the contents of the zip file.
 3. Double-click **Windows (Dark Sounds).theme**.
 4. The theme will automatically be applied and you will now be able to hear the correct sounds throughout the system.
 
 # Post-installation
 
-If you Windows to automatically switch to this theme on a schedule, here's a shameless plug for the [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) app. I am not associated with the project but it works extremely well.
+If you want Windows to automatically switch to this theme on a schedule, here's a shameless plug for the [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) app. I am not associated with the project but it works extremely well.
